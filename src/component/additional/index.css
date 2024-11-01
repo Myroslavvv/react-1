@@ -1,0 +1,23 @@
+.additional {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.additional__header {
+  display: flex;
+  gap: 12px;
+}
+
+.additional__list {
+  display: grid;
+  gap: 12px;
+}
+
+.additional__list-item {
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 8px;
+  font-size: 16px;
+  display: flex;
+  gap: 12px;
+}

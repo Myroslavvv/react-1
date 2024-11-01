@@ -1,0 +1,10 @@
+.attraction__block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.attraction__list {
+  display: grid;
+  gap: 8px;
+}
